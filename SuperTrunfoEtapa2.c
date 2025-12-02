@@ -1,5 +1,4 @@
 #include <stdio.h>
-// https://github.com/JeanShamayin/CartasSuperTrunfo
 /*Exemplos que estou usando para testa o codigo, caso queira utilizar:
 DF
 A01
